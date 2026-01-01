@@ -1,1 +1,1 @@
-# ai--skill-gap-career-platfrom
+# ai-skill-gap-career-platfrom
